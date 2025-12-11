@@ -1,0 +1,10 @@
+Produto
+ - nome : String
+ - preco : double
+ - quantidade : int
+ + exibirDados()
+ + valorTotalEmEstoque()
+
+Main
+ + main(String[] args)
+ 
